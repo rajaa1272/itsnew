@@ -1,6 +1,6 @@
 
-x = input ("x : ")
-y = input ("y : ")
+x = input ("give a number : ")
+y = input ("give another number : ")
 
 
 sum = int (x) + int (y)
