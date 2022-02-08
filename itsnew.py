@@ -1,5 +1,5 @@
-x = input ("number : ")
-y = input ("one more : ")
+x = input ("type a number : ")
+y = input ("type other number : ")
 
 sum = int (x) + int (y)
 
